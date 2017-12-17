@@ -1,0 +1,7 @@
+PullCracker pull a cracker
+CountHats how many hats am i wearing
+CountHats how many hats do i have on
+CountHats how many hats have i won
+AlexaHats how many hats are you wearing
+AlexaHats how many hats do you have on
+AlexaHats how many hats have you won

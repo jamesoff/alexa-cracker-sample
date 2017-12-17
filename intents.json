@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "PullCracker",
+      "slots": []
+    },
+    {
+      "intent": "CountHats",
+      "slots": []
+    },
+    {
+      "intent": "AlexaHats",
+      "slots": []
+    }
+  ]
+}
